@@ -101,8 +101,9 @@
     {
         text="[PLUS]"
         _Author                         {   text="SteamBetaPlus by TokEtin"         shellcmd="steam://openurl/https://steamcommunity.com/profiles/76561198078493815" }
-        _CheckForUpdates                {   text="[URL]Check For Updates"           shellcmd="steam://openurl/https://github.com/"}
+        _CheckForUpdates                {   text="[URL]Check For Updates"           shellcmd="steam://openurl/https://github.com/toquengtoketin/SteamBetaPlus"}
         Divider                         {}
+        _Busy                           {   text="Set Status 'Busy'"                shellcmd="steam://friends/status/busy"}
         _LookingToPlay                  {   text="Set Status 'Looking To Play'"     shellcmd="steam://friends/status/play"}
         _LookingToTrade                 {   text="Set Status 'Looking To Trade'"    shellcmd="steam://friends/status/trade"}
         Divider                         {}

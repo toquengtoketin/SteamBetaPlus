@@ -8,6 +8,7 @@ SteamBetaPlus
 | SteamBetaPlus By TōkËtin | view author profile |
 | Check For Updates | URL to here |
 | - | - |
+| Set Status 'Busy' | Sets your status to Busy |
 | Set Status 'Looking To Play' | Sets your status to Looking to Play |
 | Set Status 'Looking To Trade' | Sets your status to Looking to Trade |
 | - | - |
