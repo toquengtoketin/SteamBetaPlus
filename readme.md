@@ -3,6 +3,8 @@ SteamBetaPlus
 =============
 ###### By TōkËtin
 ---
+![preview](preview.png)
+---
 | button | command |
 | - | - |
 | SteamBetaPlus By TōkËtin | view author profile |
