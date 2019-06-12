@@ -107,9 +107,11 @@
         _LookingToPlay                  {   text="Set Status 'Looking To Play'"     shellcmd="steam://friends/status/play"}
         _LookingToTrade                 {   text="Set Status 'Looking To Trade'"    shellcmd="steam://friends/status/trade"}
         Divider                         {}
-		Tools							{	text="#steam_menu_tools"				shellcmd="steam://nav/tools" }
-		Downloads						{	text="#steam_menu_downloads"			shellcmd="steam://nav/downloads" }
-        Divider                         {}
+        //_Tools                           {   text="#steam_menu_tools"                shellcmd="steam://nav/tools" }
+        //Downloads                       {   text="#steam_menu_downloads"            shellcmd="steam://nav/downloads" }
+        //_Downloads                       {   text="Downloads"                        shellcmd="steam://nav/downloads" }
+        //Divider                         {}
+        _RecentlyUpdated                {   text="Recently Updated"                 shellcmd="steam://openurl/https://store.steampowered.com/updated/myapps/"}
         _RecommendationsQueue           {   text="Recommendations Queue"            shellcmd="steam://openurl/https://store.steampowered.com/explore/next/0"}
         _NewReleasesQueue               {   text="New Releases Queue"               shellcmd="steam://openurl/https://store.steampowered.com/explore/next/3"}
         _UpcomingReleases               {   text="Upcoming Releases"                shellcmd="steam://openurl/https://store.steampowered.com/explore/upcoming"}
@@ -119,8 +121,8 @@
         _SteamDBStatus                  {   text="🌐Steam Status"                   shellcmd="steam://openurl/https://steamstat.us/" }
         _SteamDBRealtimeUpdates         {   text="🌐Realtime Updates"               shellcmd="steam://openurl/https://steamdb.info/realtime/" }
         Divider                         {}
-        Restart 	            		{	text="#Steam_MustRestart_Button"		command="RestartSteam" }
+        _Restart                         {   text="#Steam_MustRestart_Button"        command="RestartSteam" }
         Divider                         {}
-        Console                         {   text="Console"		                    shellcmd="steam://open/console" }
+        _Console                         {   text="Console"                          shellcmd="steam://open/console" }
     }
 }
