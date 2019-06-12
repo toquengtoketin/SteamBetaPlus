@@ -3,8 +3,6 @@ SteamBetaPlus
 =============
 ###### By TōkËtin
 ---
-![preview](preview.png)
----
 | button | command |
 | - | - |
 | SteamBetaPlus By TōkËtin | view author profile |
@@ -14,9 +12,7 @@ SteamBetaPlus
 | Set Status 'Looking To Play' | Sets your status to Looking to Play |
 | Set Status 'Looking To Trade' | Sets your status to Looking to Trade |
 | - | - |
-| Tools | library -> games -> tools |
-| Downloads | open downloads page |
-| - | - |
+| Recently Updated | go to the recently updated games and softwares page |
 | Recommendations Queue | go to page 1 of recommendations queue |
 | New Releases Queue | go to page 1 of new releases queue |
 | Upcoming Releases | explore upcoming releases page |
